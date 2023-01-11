@@ -16,9 +16,9 @@ This is a simple application to test and learn a raw connection to a NoSQL datab
 8. Copy Connection String from MongoDB Atlas
     1. Access the cluster
     2. Go to Overview
-		3. Click button `CONNECT`
-		4. Select `Connect your application` - Select Python Driver and Version (up to 3)
-		5. Copy the Connection String Generated
+    3. Click button `CONNECT`
+    4. Select `Connect your application` - Select Python Driver and Version (up to 3)
+    5. Copy the Connection String Generated
 9. Update the connection string and password in the files app.py and .env
 10. Activate the virtual environment
 11. run the file `python3 app.py run`
