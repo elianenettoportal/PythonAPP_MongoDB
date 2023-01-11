@@ -1,5 +1,4 @@
 <h1> Python project to Connect MongoDB Atlas Database </h1>
-PythonAPP_MongoDB
 
 <h2> Description</h2>
 This is a simple application to test and learn a raw connection to a NoSQL database. It is a Remote NoSQL database hosted in MongoDB Atlas Database <br>
@@ -26,3 +25,8 @@ This is a simple application to test and learn a raw connection to a NoSQL datab
 
 >> Cluster is an abstraction on top of a database. A database will be hosted inside the cluster<br>
 >> The cluster must have Replica Set - 3 nodes - Meaning that we will have 3 servers running the database. Better scale and redundancy one goes down another replica assume<br>
+
+
+>> Install
+>> 1. Python Driver for MongoDB `install pymongo[srv]` 
+>> 2. `python-dotenv`
