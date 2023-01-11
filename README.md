@@ -30,3 +30,7 @@ This is a simple application to test and learn a raw connection to a NoSQL datab
 >> Install
 >> 1. Python Driver for MongoDB `install pymongo[srv]` 
 >> 2. `python-dotenv`
+
+
+> PyMongo provides a rich set of tools that you can use to communicate with a MongoDB server. 
+> t provides functionality to query, retrieve results, write and delete data, and run database commands.
